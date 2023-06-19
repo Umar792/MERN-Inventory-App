@@ -1,0 +1,25 @@
+.sidebar{
+    height: 100vh;
+    background-color: white;
+    border-right: 1px solid gray;
+    padding: 10px 0px;
+}
+.sidebar_box{
+     display: flex;
+     justify-content: flex-start;
+    align-items: center;
+    border-bottom: 1px solid gray;
+    padding: 12px 10px;
+    cursor: pointer;
+}
+.sidebar_box svg{
+    margin-right: 10px;
+    font-size: 23px;
+}
+
+.sidebar_box:hover{
+    background-color: #F0F0F0;
+}
+.sidebar a{
+    color: black;
+}

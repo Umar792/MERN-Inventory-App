@@ -1,0 +1,20 @@
+.single_product{
+    padding: 20px;
+}
+.single_product h2{
+    margin-bottom: 15px;
+
+}
+.single_product font{
+    color: red;
+    margin-left: 10px;
+    font-size: 35px;
+}
+.single_product p{
+    margin-bottom: 15px;
+}
+.single_product fount{
+    margin-left: 15px;
+    font-weight: bold;
+    left: 1px;
+}

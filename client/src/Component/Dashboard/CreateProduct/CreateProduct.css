@@ -1,0 +1,38 @@
+.create_product{
+    width: 100%;
+    height: 100vh;
+    padding: 10px 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.create_product h1{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.inputs_create{
+    padding: 10px 30px;
+  
+}
+.inputs_create svg{
+    width: 100px;
+    height: 100px;
+}
+.inputs_create img{
+    width: 100px;
+    height: 100px;
+}
+.inputs_create input{
+    width: 100%;
+    margin: 10px 0px;
+    padding: 10px ;
+}
+.inputs_create button{
+    width: 100%;
+    padding: 10px 0px;
+    cursor: pointer;
+    border: none;
+    color: white;
+    background-color: #030B6B;
+}

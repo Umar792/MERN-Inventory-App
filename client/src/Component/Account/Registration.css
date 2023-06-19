@@ -1,0 +1,39 @@
+.registration{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+}
+.registration_conect{
+    max-width: 500px;
+}
+.registration input{
+    width: 100%;
+    margin: 10px 0px;
+    padding: 6px 10px
+}
+.image{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid gray;
+    padding-right: 5px;
+}
+.image img{
+    width: 40px;
+    height: 40px;
+    border-radius: 100%;
+}
+.registration_conect svg{
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+}
+.registration_conect button{
+    margin: 10px 0px;
+    padding: 7px 30px;
+    background-color: #030B6B;
+    border: none;
+    color: white;
+    cursor: pointer;
+}

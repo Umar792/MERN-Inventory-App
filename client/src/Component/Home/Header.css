@@ -1,0 +1,18 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 30px;
+    background: transparent;
+    color: white;
+    background-color: #030B6B;
+}
+.header button{
+    padding: 8px 30px;
+    margin: 0px 8px;
+    cursor: pointer;
+    background-color: #5463FF;
+    color: white;
+    border: none;
+    outline: none;
+}
